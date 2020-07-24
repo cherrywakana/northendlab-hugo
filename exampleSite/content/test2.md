@@ -14,6 +14,4 @@ a
 
 ![](https://res.cloudinary.com/dvcerylas/image/upload/v1595594541/samples/cloudinary-group.jpg)
 
-![](https://res.cloudinary.com/dvcerylas/image/upload/v1595595877/tesr_o4tfos.jpg)
-
-![](https://res.cloudinary.com/dvcerylas/image/upload/v1595604115/tesr%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC_vqxbm2.jpg)
+![](https://res.cloudinary.com/dvcerylas/image/upload/v1595595877/tesr_o4tfos.jpg)![](https://res.cloudinary.com/dvcerylas/image/upload/c_scale,w_1000/v1595604115/tesr%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC_vqxbm2.jpg)
