@@ -3,6 +3,7 @@ author = ""
 categories = []
 date = 2020-07-23T15:00:00Z
 description = ""
+draft = true
 image = "/images/2020-07-11-20-00-14.jpg"
 title = "test"
 type = "post"
