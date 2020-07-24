@@ -3,7 +3,7 @@ author = ""
 categories = []
 date = ""
 description = ""
-image = ""
+image = "https://res.cloudinary.com/dvcerylas/image/upload/v1595595117/drop_backpack40_okkmle.jpg"
 title = "test2"
 type = "post"
 
