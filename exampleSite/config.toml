@@ -1,6 +1,6 @@
 baseURL = "https://originalprice-test.netlify.app"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "ja"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
