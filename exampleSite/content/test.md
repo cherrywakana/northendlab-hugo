@@ -12,9 +12,9 @@ type = "post"
 
 ここでは、そんな海外のULバックパックを紹介します。
 
-**意外な事にほとんどのULバックパックブランドが日本へ商品を発送しています。**オフィシャルサイトで簡単に本場のバックパックを安い価格で手に入れることが出来るのです。
+\**意外な事にほとんどのULバックパックブランドが日本へ商品を発送しています。**オフィシャルサイトで簡単に本場のバックパックを安い価格で手に入れることが出来るのです。
 
-**私が実際に購入したバックパックを含め、海外のコミュニティでも絶大な人気を誇るバックパックブランド12選を紹介します。**全て日本から購入可能です。
+\**私が実際に購入したバックパックを含め、海外のコミュニティでも絶大な人気を誇るバックパックブランド12選を紹介します。**全て日本から購入可能です。
 
 ## Hyperlite Mountain Gear
 
@@ -82,7 +82,9 @@ Gossamer Gearの製品はアメリカのレビューサイトで常に高評価�
 
 ## DROP
 
-![](https://original-price.com/wp-content/uploads/2020/07/drop_40backpack-1.jpeg)出典：[DROP](https://drop.com/buy/drop-40l-backpack-designed-by-dan-durston)
+![](https://original-price.com/wp-content/uploads/2020/07/drop_40backpack-1.jpeg)
+
+出典：[DROP](https://drop.com/buy/drop-40l-backpack-designed-by-dan-durston)
 
 本部：アメリカ
 
@@ -106,7 +108,7 @@ DROPは実際にはブランドではなく、コミュニティ兼通販サイ�
 
 ## Mountain Laurel Designs
 
-![](https://original-price.com/wp-content/uploads/2020/07/MLDProphet2020-2.jpg =342x342)出典：[Mountain Laurel Designs](https://mountainlaureldesigns.com/)
+出典：[Mountain Laurel Designs](https://mountainlaureldesigns.com/)
 
 **PROPHET DCF 48L**
 
