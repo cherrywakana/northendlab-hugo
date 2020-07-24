@@ -41,8 +41,8 @@ sections:
   match: "*.toml"
   new_doc_ext: toml
 upload_dir: ''
-public_path: " https://res.cloudinary.com/dvcerylas/image/upload"
-front_matter_path: https://res.cloudinary.com/dvcerylas/image/upload
+public_path: https://res.cloudinary.com/dvcerylas/image/upload/c_scale,w_1000
+front_matter_path: https://res.cloudinary.com/dvcerylas/image/upload/c_scale,w_1000/sample.jpg
 use_front_matter_path: true
 file_template: ":filename:"
 build:
