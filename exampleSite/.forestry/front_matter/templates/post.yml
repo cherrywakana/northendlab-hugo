@@ -26,3 +26,4 @@ fields:
   default: post
 pages:
 - exampleSite/content/test.md
+- exampleSite/content/test2.md
