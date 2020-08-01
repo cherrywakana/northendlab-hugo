@@ -3,7 +3,6 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
 image = "https://res.cloudinary.com/dvcerylas/image/upload/v1595595117/drop_backpack40_okkmle.jpg"
 title = "test2"
 type = "post"
@@ -15,7 +14,7 @@ type = "post"
 
 使ってみて分かった3つの軸
 
-1. **日本へ**直送：ショップが自宅まで直接商品を送ってくれるサイトを選ぶ
+1. **日本へ直送**：ショップが自宅まで直接商品を送ってくれるサイトを選ぶ
 2. **送料が安い**：日本までの送料が安いサイトを選ぶ
 3. **商品が多い**：取り扱いブランドが多く、価格が安いサイトを選ぶ
 
@@ -23,26 +22,25 @@ type = "post"
 
 アウトドア海外通販サイトを3つの軸で比較したランキングTOP11と海外通販サイト利用時の注意点をご紹介します。
 
-## アウトドア海外通販サイトを徹底比較！ランキングTOP11
+## アウトドア海外通販サイトを徹底比較！ ランキングTOP11
 
-### 1.トレックキン
+### 1.Trekkinn
 
 ![](https://original-price.com/wp-content/uploads/2020/05/trekkinn_top-1024x525.png)
 
 Trekkinnはスペインのオンラインストアです。日本からの利用者も多く、日本語・日本円に対応しています。日本のサイトと同じように利用できますが、商品は海外価格なので格安で購入できます。
 
-
-
-
-
-| 直送| 送料 | 配達日数 | 支払方法 | 国 |
 | --- | --- | --- | --- | --- |
-| ○ | 1,000円〜 | 2週間 | クレジットPayPal | スペイン |
-
+| 直送 | 送料 | 配達日数 | 支払方法 | 国 |
+| ○ | 1,000円〜 | 2週間 | クレジット PayPal | スペイン |
 
 取り扱いブランド
 
-Arc'teryxAtomicBerghausBlackDiamondColumbiaDeuterHaglöfsHellyHansenJackWolfskinLaSportivaLowaMammutMarmotMerrellMIlletMoutainEquipmentMountainHardwearOutdoorResearchPetzlSalomonTheNorthFace
+Arc'teryx Atomic Berghaus BlackDiamond Columbia Deuter Haglöfs HellyHansen JackWolfskin LaSportiva Lowa Mammut Marmot Merrell MIllet MoutainEquipment MountainHardwear OutdoorResearch Petzl Salomon TheNorthFace
+
+![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
+
+管理人
 
 機械翻訳なので多少おかしな所はありますが、日本語なので安心して買い物ができます。
 
@@ -54,19 +52,25 @@ Arc'teryxAtomicBerghausBlackDiamondColumbiaDeuterHaglöfsHellyHansenJackWolfskin
 
 ***
 
-### 2.エリス・ブリガム
+### 2.Ellis Brigham
 
 ![](https://original-price.com/wp-content/uploads/2020/05/ellis_top.jpg)
 
 Ellis Brighamはイギリスのショップです。イギリスに２０近くの実店舗を運営している一方で、オンラインストアでは世界中に商品を提供しています。送料は複数の商品を購入しても一律となっています。
 
-| --- | --- | --- | --- | --- | | 直送| 送料| 配達日数| 支払方法| 国| | ○| 3,300円| 1〜2週間| クレジットPayPal | イギリス|
+| --- | --- | --- | --- | --- |
+| 直送 | 送料 | 配達日数 | 支払方法 | 国 |
+| ○ | 3,300円 | 1-2週間 | クレジット PayPal | イギリス |
 
 取り扱いブランド
 
-Arc'teryxBigAgnesBlackDiamondDekineFjallravenHaglöfsHokaOneOneLaSportivaMammutMarmotMerrellMoutainEquipmentMountainHardwearMSRNorronaOspreyPatagoniaPeakPerformanceRabSalomonTheNorthFaceTherm-a-Rest
+Arc'teryx BigAgnes BlackDiamond Dekine Fjallraven Haglöfs HokaOneOne LaSportiva Mammut Marmot Merrell MoutainEquipment MountainHardwear MSR Norrona Osprey Patagonia PeakPerformance Rab Salomon TheNorthFace Therm-a-Rest
 
-Ellis Brighamaでは英国の税込価格で表示されますが、日本から買う場合は税金が抜かれます。表示価格から20％OFFくらいになります。
+![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
+
+管理人
+
+Ellis Brighamaでは英国の税込価格で表示されますが、日本から買う場合は税金が抜かれます。表示価格から20%OFFくらいになります。
 
 [ショップ詳細](https://original-price.com/outdoorshop/ellis-brigham/ellis-shopreview)
 
@@ -80,17 +84,19 @@ Ellis Brighamaでは英国の税込価格で表示されますが、日本から
 
 alloutdoorはイギリスのアウトドア用品店です。取り扱っているブランドは多くはありませんが、MSRなどの特定ブランドは他サイトを圧倒します。一応日本語対応です。
 
-| --- | --- | --- | --- | --- | | 直送| 送料| 配達日数| 支払方法| 国| | ○| 1,700円| 1〜2週間| クレジットPayPal | イギリス|
+| --- | --- | --- | --- | --- |
+| 直送 | 送料 | 配達日数 | 支払方法 | 国 |
+| ○ | 1,700円 | 1-2週間 | クレジット PayPal | イギリス |
 
 取り扱いブランド
 
-ブラックダイアモンドエクスペッドモンテインマウンテン機器マウンテンハードウェアMSRオスプレーテラノバサーマアレスト
+BlackDiamond Exped Montane MoutainEquipment MountainHardwear MSR Osprey TerraNova Therm-a-Rest
 
 ![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
 
 管理人
 
-alloutdoorでは英国の税込価格で表示されますが、日本から買う場合は税金が抜かれます。表示価格から20％OFFくらいになります。
+alloutdoorでは英国の税込価格で表示されますが、日本から買う場合は税金が抜かれます。表示価格から20%OFFくらいになります。
 
 送料は複数商品買っても1,700円、激安です。
 
@@ -106,7 +112,9 @@ alloutdoorでは英国の税込価格で表示されますが、日本から買�
 
 REIはアメリカのアウトドア用品店です。アメリカには約160の大型店舗がある事に加え、オンラインストアの利用も盛んです。150ドル以上購入すると送料無料で日本まで直送してくれます。ただ、アメリカのサイトでは日本へ送れないブランドが多数あります（後述します）。
 
-| --- | --- | --- | --- | --- | | 直送 | 送料 | 配達日数 | 支払方法 | 国 | | △ | 無料〜2,000円 | 1-2週間 | クレジット PayPal | アメリカ |
+| --- | --- | --- | --- | --- |
+| 直送 | 送料 | 配達日数 | 支払方法 | 国 |
+| △ | 無料〜2,000円 | 1-2週間 | クレジット PayPal | アメリカ |
 
 取り扱いブランド
 
@@ -132,7 +140,9 @@ REIは2000年に日本進出を果たすも撤退してしまいました。
 
 WildBoundsはイギリスのオンラインストアです。有名なアウトドアブランドも取り扱っていますが、新しく誕生したブランドや最先端の製品を多く販売しています。送料は£150以上購入で無料となりますが、それ以下でも十分安いです。
 
-| --- | --- | --- | --- | --- | | 直送 | 送料 | 配達日数 | 支払方法 | 国 | | ○ | 無料〜1,000円 | 1-2週間 | クレジット PayPal | イギリス |
+| --- | --- | --- | --- | --- |
+| 直送 | 送料 | 配達日数 | 支払方法 | 国 |
+| ○ | 無料〜1,000円 | 1-2週間 | クレジット PayPal | イギリス |
 
 取り扱いブランド
 
@@ -156,7 +166,9 @@ Buff DarnTough Gregory Helinox Kelty Nemo Nordisk Tentsile UCO Yeti
 
 LD Mountain Centreはイギリスのアウトドア用品店です。日本でも有名なBerghausはLD Mountain Centreの創業者が立ち上げたブランドです。アウトドアギアの世界では、名店と言われているショップのひとつです。
 
-| --- | --- | --- | --- | --- | | 直送 | 送料 | 配達日数 | 支払方法 | 国 | | ○ | 4,700円 | 1-2週間 | クレジット PayPal | イギリス |
+| --- | --- | --- | --- | --- |
+| 直送 | 送料 | 配達日数 | 支払方法 | 国 |
+| ○ | 4,700円 | 1-2週間 | クレジット PayPal | イギリス |
 
 取り扱いブランド
 
@@ -182,7 +194,9 @@ Arc'teryx Berghaus BlackDiamond BigAgnes CanadaGoose Deuter Exped Fjallraven Hel
 
 ScandinavianOutdoorはフィンランドのアウトドア用品店そしてオンラインショップです。1970年に設立され、北欧では最大手のアウトドア用品ショップです。送料は複数の商品を購入しても一律の価格です。
 
-| --- | --- | --- | --- | --- | | 直送 | 送料 | 配達日数 | 支払方法 | 国 | | ○ | 3,000円 | 1-2週間 | クレジット PayPal | フィンランド |
+| --- | --- | --- | --- | --- |
+| 直送 | 送料 | 配達日数 | 支払方法 | 国 |
+| ○ | 3,000円 | 1-2週間 | クレジット PayPal | フィンランド |
 
 取り扱いブランド
 
@@ -206,7 +220,9 @@ Atomic BlackDiamond Deuter Exped Fjallraven Haglofs Hilleberg HokaOneOne JackWol
 
 Barrabesはスペインのピレネー山脈の麓でうまれたアウトドア用品店です。スペイン国内に7店舗運営しています。送料は商品によって変わりますが、大きなものを購入しない限りは3,000-4,000円になります。
 
-| --- | --- | --- | --- | --- | | 直送 | 送料 | 配達日数 | 支払方法 | 国 | | ○ | 3,000円〜 | 1-2週間 | クレジット PayPal | スペイン |
+| --- | --- | --- | --- | --- |
+| 直送 | 送料 | 配達日数 | 支払方法 | 国 |
+| ○ | 3,000円〜 | 1-2週間 | クレジット PayPal | スペイン |
 
 取り扱いブランド
 
@@ -230,7 +246,9 @@ Arc'teryx BlackYak BlackDiamond Deuter Fjallraven Gregory HellyHansen HokaOneOne
 
 Outdoorplayは1995年に設立されました。カヤックスクールとして始まりましたが、アウトドアギアを日本に発送するアメリカを代表するオンラインストアです。カヤック用品がかなり充実していますが、登山用品なども安く買えます。
 
-| --- | --- | --- | --- | --- | | 直送 | 送料 | 配達日数 | 支払方法 | 国 | | △ | 5,600円〜 | 1-2週間 | クレジット PayPal | アメリカ |
+| --- | --- | --- | --- | --- |
+| 直送 | 送料 | 配達日数 | 支払方法 | 国 |
+| △ | 5,600円〜 | 1-2週間 | クレジット PayPal | アメリカ |
 
 取り扱いブランド
 
@@ -248,13 +266,15 @@ Arc'teryx BigAgnes BlackDiamond Hilleberg Innova Jetboil Kelty LaSportiva Lowa M
 
 ***
 
-### 10.バックカントリー
+### 10.Backcountry
 
 ![](https://original-price.com/wp-content/uploads/2020/04/backcountry_top-1024x488.jpg)
 
-バックカントリーはアメリカの大手アウトドア総合通販サイトです。実店舗を１店舗運営しているだけで、基本的にはオンラインショップがメインです。日本までの送料は高く、購入できるブランドも少ないことから日本からの利用価値は皆無といったところです。
+Backcountryはアメリカの大手アウトドア総合通販サイトです。実店舗を１店舗運営しているだけで、基本的にはオンラインショップがメインです。日本までの送料は高く、購入できるブランドも少ないことから日本からの利用価値は皆無といったところです。
 
-| --- | --- | --- | --- | --- | | 直送| 送料| 配達日数| 支払方法| 国| | △| 6,500円| 1〜2週間| クレジットPayPal | アメリカ|
+| --- | --- | --- | --- | --- |
+| 直送 | 送料 | 配達日数 | 支払方法 | 国 |
+| △ | 6,500円 | 1-2週間 | クレジット PayPal | アメリカ |
 
 取り扱いブランド
 
@@ -268,13 +288,15 @@ Arc'teryx BlackDiamond CanadaGoose Exped LaSportiva MSR OutdoorResearch Osprey P
 
 ***
 
-### 11.ムースジョー
+### 11.Moosejaw
 
 ![](https://original-price.com/wp-content/uploads/2020/06/moosejaw_top.jpg)
 
 Moosejawはアメリカのアウトドア用品店です。Moosejawのオーナーは世界最大のスーパーマーケットWalmartです。日本までの送料は高く、購入できるブランドも少ないことから日本からの利用価値は皆無といったところです。
 
-| --- | --- | --- | --- | --- | | 直送| 送料| 配達日数| 支払方法| 国| | △| 7,500円| 1〜2週間| クレジットPayPal | アメリカ|
+| --- | --- | --- | --- | --- |
+| 直送 | 送料 | 配達日数 | 支払方法 | 国 |
+| △ | 7,500円 | 1-2週間 | クレジット PayPal | アメリカ |
 
 取り扱いブランド
 
@@ -310,23 +332,23 @@ Arc'teryx BlackDiamond CanadaGoose Exped LaSportiva MSR OutdoorResearch Osprey P
 
 アメリカやカナダの通販サイトでは、世界中に商品を配送するショップが多数あります。しかし、ちょうど私たちが欲しいと思う商品は、ブランドの制限により日本へ送る事が出来ません。
 
-事実はこについてる真相を確かめいてるたんめいに[バックカントリー](https://www.backcountry.com/)の担当者に聞いてるみてるとか下さい記の答えでしたん。
+この事実について真相を確かめるために[Backcountry](https://www.backcountry.com/)の担当者に聞いてみると下記の答えでした。
 
 > 海外（アメリカの外）で取り扱いのあるブランドに関しては、私たちの値下げした値段で販売する事ができない。
 
 これは日本でオフィシャルとして販売している会社があるブランドについては、ブランドを保護するために、海外から買えないようにしているという事だと思います。
 
-REI、バックカントリー、Moosejaw以外にもアメリカ・カナダの通販サイトはブランド制限を設けています。
+REI、Backcountry、Moosejaw以外にもアメリカ・カナダの通販サイトはブランド制限を設けています。
 
 アメリカの海外通販サイト
 
-* [スティープ＆チープ](https://www.steepandcheap.com/)
+* [Steep＆Cheep](https://www.steepandcheap.com/)
 * [CampSaver](https://www.campsaver.com/)
-* [エボ](https://www.evo.com/)
-* [マウンテンスティールズ](https://www.mountainsteals.com/)
-* [クリム](https://www.theclymb.com/Events.aspx)
+* [EVO](https://www.evo.com/)
+* [Mountain Steels](https://www.mountainsteals.com/)
+* [The Clymb](https://www.theclymb.com/Events.aspx)
 * [Campmor](https://www.campmor.com/)
-* [ザッポス](https://www.zappos.com/)
+* [Zappos](https://www.zappos.com/)
 
 上記のようなアメリカのサイトでどうしても買いたい場合は、国際転送サービスを使うのも一つの手です。
 
@@ -340,7 +362,7 @@ REI、バックカントリー、Moosejaw以外にもアメリカ・カナダの
 
 流れは普通の通販サイトと同じです。
 
-海外と日本で違うところといえば、住所入力です。これは下記サイトを見ていただければ理解できると思います。そうは言っても、難しい考える必要はなく、住所を見て届けるのは日本の配達員なので、必要な要素が買いてあれば問題なく届きます。
+海外と日本で違うところといえば、住所入力です。これは下記サイトを見ていただければ理解できると思います。そうは言っても、難しく考える必要はなく、住所を見て届けるのは日本の配達員なので、必要な要素が買いてあれば問題なく届きます。
 
 [https://original-price.com/overseasshop/manual-address](https://original-price.com/overseasshop/manual-address "https://original-price.com/overseasshop/manual-address")
 
@@ -358,7 +380,7 @@ REI、バックカントリー、Moosejaw以外にもアメリカ・カナダの
 
 ### 商品代金が16,666円以下のとき
 
-\**個人輸入した商品代金が16,666円以下の場合は、関税や消費税が免除されます。**つまりお支払いするトータル金額は商品代金＋送料のみです。
+**個人輸入した商品代金が16,666円以下の場合は、関税や消費税が免除されます。**つまりお支払いするトータル金額は商品代金＋送料のみです。
 
 ### 商品代金が16,666円を超えるとき
 
