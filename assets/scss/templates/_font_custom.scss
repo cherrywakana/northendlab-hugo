@@ -4,9 +4,12 @@
 .content {
   h2{
     font-size: 24px;
+    border-bottom: solid 2px $text-color;
   }
   h3{
     font-size: 22px;
+    border-left-style: solid;
+	  border-left: 6px solid;
   }
   h4{
     font-size: 20px;
