@@ -38,8 +38,6 @@ Trekkinnはスペインのオンラインストアです。日本からの利用
 
 Arc'teryx Atomic Berghaus BlackDiamond Columbia Deuter Haglöfs HellyHansen JackWolfskin LaSportiva Lowa Mammut Marmot Merrell MIllet MoutainEquipment MountainHardwear OutdoorResearch Petzl Salomon TheNorthFace
 
-![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
-
 管理人
 
 機械翻訳なので多少おかしな所はありますが、日本語なので安心して買い物ができます。
@@ -66,8 +64,6 @@ Ellis Brighamはイギリスのショップです。イギリスに２０近く�
 
 Arc'teryx BigAgnes BlackDiamond Dekine Fjallraven Haglöfs HokaOneOne LaSportiva Mammut Marmot Merrell MoutainEquipment MountainHardwear MSR Norrona Osprey Patagonia PeakPerformance Rab Salomon TheNorthFace Therm-a-Rest
 
-![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
-
 管理人
 
 Ellis Brighamaでは英国の税込価格で表示されますが、日本から買う場合は税金が抜かれます。表示価格から20%OFFくらいになります。
@@ -91,8 +87,6 @@ alloutdoorはイギリスのアウトドア用品店です。取り扱ってい�
 取り扱いブランド
 
 BlackDiamond Exped Montane MoutainEquipment MountainHardwear MSR Osprey TerraNova Therm-a-Rest
-
-![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
 
 管理人
 
@@ -120,8 +114,6 @@ REIはアメリカのアウトドア用品店です。アメリカには約160�
 
 BigAgnes Coleman Eureka! Fjallraven HellyHansen Hilleberg Icebreaker Kelty MountainEquipment MountainHardwear REICo-op
 
-![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
-
 管理人
 
 REIは2000年に日本進出を果たすも撤退してしまいました。
@@ -148,8 +140,6 @@ WildBoundsはイギリスのオンラインストアです。有名なアウト�
 
 Buff DarnTough Gregory Helinox Kelty Nemo Nordisk Tentsile UCO Yeti
 
-![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
-
 管理人
 
 意識高い系ショップに見せかけて、送料無料だったり他では買えないブランドがあったりで、オススメです（特にNEMOが買えるのが激アツ）。
@@ -173,8 +163,6 @@ LD Mountain Centreはイギリスのアウトドア用品店です。日本で�
 取り扱いブランド
 
 Arc'teryx Berghaus BlackDiamond BigAgnes CanadaGoose Deuter Exped Fjallraven HellyHansen HokaOneOne JackWolfskin LoweAlpine Montane MoutainEquipment MSR Osprey Patagonia Rab Schoffel TerraNova TheNorthFace
-
-![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
 
 管理人
 
@@ -202,8 +190,6 @@ ScandinavianOutdoorはフィンランドのアウトドア用品店そしてオ�
 
 Atomic BlackDiamond Deuter Exped Fjallraven Haglofs Hilleberg HokaOneOne JackWolfskin LaSportiva MSR Osprey PeakPerformance Savotta Salomon TerraNova TheNorthFace
 
-![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
-
 管理人
 
 珍しい北欧のショップです。北欧ブランドが多数揃っています。
@@ -228,8 +214,6 @@ Barrabesはスペインのピレネー山脈の麓でうまれたアウトドア
 
 Arc'teryx BlackYak BlackDiamond Deuter Fjallraven Gregory HellyHansen HokaOneOne LaSportiva Montane Mammut Millet Montura MountainHardwear MSR Osprey Patagonia Rab Tenaya TheNorthFace
 
-![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
-
 管理人
 
 有名ブランドが多数あります。セールでかなり安くなるので、タイミングが良ければビックリする価格が買えます。
@@ -253,8 +237,6 @@ Outdoorplayは1995年に設立されました。カヤックスクールとし�
 取り扱いブランド
 
 Arc'teryx BigAgnes BlackDiamond Hilleberg Innova Jetboil Kelty LaSportiva Lowa Mammut Marmot MSR Nemo OutdoorResearch Patagonia Therm-a-Rest
-
-![管理人](https://original-price.com/wp-content/uploads/2020/06/4043232-avatar-batman-comics-hero.png)
 
 管理人
 
@@ -380,7 +362,7 @@ REI、Backcountry、Moosejaw以外にもアメリカ・カナダの通販サイ�
 
 ### 商品代金が16,666円以下のとき
 
-**個人輸入した商品代金が16,666円以下の場合は、関税や消費税が免除されます。**つまりお支払いするトータル金額は商品代金＋送料のみです。
+\**個人輸入した商品代金が16,666円以下の場合は、関税や消費税が免除されます。**つまりお支払いするトータル金額は商品代金＋送料のみです。
 
 ### 商品代金が16,666円を超えるとき
 
