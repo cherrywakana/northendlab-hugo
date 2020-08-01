@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = []
+categories = ["test"]
 date = 2020-07-31T15:00:00Z
 description = ""
 image = "https://res.cloudinary.com/dvcerylas/image/upload/v1595595117/drop_backpack40_okkmle.jpg"
