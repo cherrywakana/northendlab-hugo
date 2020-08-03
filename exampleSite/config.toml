@@ -76,3 +76,8 @@ link = "#"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
+
+
+uglyurls = true
+[permalinks]
+  post = ":filename"
