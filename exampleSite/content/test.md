@@ -6,7 +6,7 @@ description = ""
 image = "/images/2020-07-11-20-00-14.jpg"
 title = "testtest"
 type = "post"
-url = "/categories/page"
+url = "/categories/page-1"
 
 +++
 日本でウルトラライトバックパックと言えば『山と道』ですが、ULバックパッキングの本場であるアメリカには、ULブランドが数多く存在します。
