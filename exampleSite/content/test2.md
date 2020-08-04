@@ -35,9 +35,9 @@ Trekkinnはスペインのオンラインストアです。日本からの利用
 |○ | 1,000円〜 | 2週間 | クレジット PayPal |
 
 取り扱いブランド
-
-|Arc'teryx  Atomic  Berghaus  BlackDiamond  Columbia  Deuter  Haglöfs  HellyHansen  JackWolfskin  LaSportiva  Lowa  Mammut  Marmot  Merrell  Millet  MoutainEquipment  MountainHardwear  OutdoorResearch  Petzl  Salomon  TheNorthFace|
-|:-:|
+```
+Arc'teryx  Atomic  Berghaus  BlackDiamond  Columbia  Deuter  Haglöfs  HellyHansen  JackWolfskin  LaSportiva  Lowa  Mammut  Marmot  Merrell  Millet  MoutainEquipment  MountainHardwear  OutdoorResearch  Petzl  Salomon  TheNorthFace
+```
 
 管理人
 
