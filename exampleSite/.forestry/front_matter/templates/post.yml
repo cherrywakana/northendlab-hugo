@@ -26,5 +26,6 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/test-re.md
 - exampleSite/content/test.md
 - exampleSite/content/test2.md
