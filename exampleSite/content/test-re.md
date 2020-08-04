@@ -17,3 +17,11 @@ a
 aaaa
 
 ## aaaa
+
+### Table title
+
+| Header | Header | Header |
+| --- | --- | --- |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
