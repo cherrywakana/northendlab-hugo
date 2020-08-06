@@ -53,9 +53,9 @@ Arc'teryx　Atomic　Berghaus　BlackDiamond　Columbia  Deuter  Haglöfs  Helly
 機械翻訳なので多少おかしな所はありますが、日本語なので安心して買い物ができます。
 
 私は様々な海外通販サイトを利用していますが、一番使っているのは多分ここです。
-
+<div style="text-align: center;">
 [ショップ詳細](https://www.trekkinn.com/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2)
-
+</div>
 [公式サイトを見る](https://www.trekkinn.com/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2)
 
 ***
