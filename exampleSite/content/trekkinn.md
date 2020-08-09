@@ -1,7 +1,7 @@
 +++
-author = ""
+author = "大塚双葉"
 categories = []
-date = 2020-08-09T06:42:45Z
+date = 2020-08-08T15:00:00Z
 description = ""
 image = ""
 title = "Trekkinnの評判は？"
