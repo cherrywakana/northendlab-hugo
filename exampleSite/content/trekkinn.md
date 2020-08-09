@@ -35,6 +35,4 @@ The North Faceのポロシャツ、Mammutのポーチ、そして[Trekkinn](http
 
 ただ、口コミのほとんどは安く買えたという声が多く、日本のユーザーも沢山いることから安心できるサイトです。
 
-<p style="text-align:center;">
-[Trekkinnはこちら](https://www.trekkinn.com/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2)
-</p>
+<div style="text-align:center;"> [Trekkinnはこちら](https://www.trekkinn.com/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2) </div>
