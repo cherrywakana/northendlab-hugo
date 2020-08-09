@@ -3,7 +3,6 @@ author = ""
 categories = []
 date = 2020-08-09T06:42:45Z
 description = ""
-draft = true
 image = ""
 title = "Trekkinnの評判は？"
 type = "post"
