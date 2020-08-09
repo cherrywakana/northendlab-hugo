@@ -2,7 +2,7 @@
 author = "大塚双葉"
 categories = []
 date = 2020-08-08T15:00:00Z
-description = ""
+description = "Trekkinnって変に日本語で、価格も良い感じに安いから詐欺サイトだと感じませんか？  私は最初そう感じていましたが、実際に利用してみると商品は問題なく届きました。  Trekkinnで実際に商品を買ってみたので、届くまでの流れやTrekkinnの評判を紹介します。"
 image = ""
 title = "Trekkinnの評判は？"
 type = "post"
